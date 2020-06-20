@@ -1,0 +1,7 @@
+Number of clusters : 1 Error : 0.058246289566929205 Cost function value : 10909.841345655555 Iteration : 2
+Number of clusters : 2 Error : 0.024593053907244585 Cost function value : 10707.675906055047 Iteration : 9
+Number of clusters : 4 Error : 0.009019678238801575 Cost function value : 35151.05296074044 Iteration : 9
+Number of clusters : 8 Error : 0.003360714492447148 Cost function value : 187222.68587400747 Iteration : 4
+Number of clusters : 16 Error : 0.0034860872308904024 Cost function value : 165392.3968348969 Iteration : 4
+Number of clusters : 32 Error : 0.0024764295125104894 Cost function value : 187705.83845152674 Iteration : 4
+Number of clusters : 64 Error : 0.0020016970329726374 Cost function value : 220897.05915570358 Iteration : 4Number of clusters : 4 Error : 0.009475530758459654 Cost function value : 139866.71081746725 Iteration : 4
